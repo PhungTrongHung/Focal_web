@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+models/*.joblib
+*.csv
+!sample_data/walking_merged_head30.csv
+models/*.pt
+dataset/

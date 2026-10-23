@@ -1,0 +1,68 @@
+{
+  "val_accuracy": 1.0,
+  "test_report": {
+    "going stair": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 540.0
+    },
+    "running": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 510.0
+    },
+    "sitting": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 720.0
+    },
+    "walking": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 625.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2395.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2395.0
+    }
+  },
+  "test_confusion_matrix": [
+    [
+      540,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      510,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      720,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      625
+    ]
+  ]
+}
